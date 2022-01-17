@@ -7,6 +7,7 @@ def miafunzione(nome):
         while x<len(nome):
             if x==len(nome)-1:
                 print(nome[x], end="")
+                print(" ")
                 break
             else:   
                 print(nome[x]+"-", end="")
