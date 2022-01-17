@@ -1,3 +1,5 @@
+# scopo didattico per home school
+
 def miafunzione(nome):
     if nome=="max":
         print("bentornato " + nome)
