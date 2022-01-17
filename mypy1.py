@@ -16,7 +16,7 @@ def miafunzione(nome):
     else:
         print("piacere di conoscerti " + nome)
 
-print ("---- py from idle native windows -------")
+print ("---- py from git -------")
 
 nomee = input("il tuo nome? ")
 
